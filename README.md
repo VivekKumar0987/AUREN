@@ -38,6 +38,10 @@ AUREN tries to give some of it back.
 </p>
 
 <p align="center">
+  <img src="docs/images/auren-observation-experience.svg" alt="AUREN observation Experience screen: No Species Name" width="100%" />
+</p>
+
+<p align="center">
   <img src="docs/images/auren-flow.svg" alt="AUREN open, reveal, experience, reflect, archive flow" width="100%" />
 </p>
 
