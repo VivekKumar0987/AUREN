@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="docs/images/auren-app-icon.png" alt="AUREN app logo" width="180" />
+</p>
+
+<p align="center">
   <code>Android</code>
   <code>Windows</code>
   <code>Offline-first</code>
@@ -20,6 +24,8 @@
 AUREN gives you one carefully designed real-world Experience you probably would
 not have chosen by default. Open it, go live it, return, reflect, and keep the
 field note in your Archive.
+
+Available for Android and Windows.
 
 Most apps ask for more of your attention.
 
