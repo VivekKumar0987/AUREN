@@ -195,21 +195,50 @@ To restore, choose the backup file and enter the same passphrase.
 
 ## Download And Install
 
-Download the latest release from this repository's **Releases** page.
+For most people, the best download is the packaged app file, not the source
+code.
+
+Current Windows package:
+
+```text
+AUREN-Windows-Portable.zip
+```
+
+Direct files:
+
+- Windows portable ZIP: [`AUREN-Windows-Portable.zip`](AUREN-Windows-Portable.zip)
+- SHA256 checksums: [`SHA256SUMS.txt`](SHA256SUMS.txt)
+
+How to download it from GitHub:
+
+1. Open this repository on GitHub.
+2. Click `AUREN-Windows-Portable.zip`.
+3. Click **Download raw file**.
+4. Extract the ZIP.
+5. Open `AUREN.exe` from the extracted folder.
+
+Important: do not download only `AUREN.exe` for normal Windows use. Flutter
+Windows apps need the executable, DLL files, and the `data` folder together.
+The root `AUREN.exe` copy is included so the app executable is easy to find,
+but the portable ZIP is the correct user download.
+
+When a GitHub Release is available, use the latest release asset instead of
+downloading files one by one from the repository.
 
 For Android:
 
-1. Download `AUREN.apk`.
+1. Download `AUREN.apk` from the latest GitHub Release.
 2. Open the APK on your phone.
 3. If Android asks, allow installation from that source.
 4. Open AUREN.
 
 For Windows:
 
-1. Download the Windows ZIP.
+1. Download `AUREN-Windows-Portable.zip`.
 2. Extract the ZIP folder.
-3. Open `auren.exe`.
-4. If Windows SmartScreen appears, choose **More info** and then **Run anyway** only if you downloaded it from the official release page.
+3. Open `AUREN.exe`.
+4. If Windows SmartScreen appears, choose **More info** and then **Run anyway**
+   only if you downloaded it from the official repository or release page.
 
 ## Best Way To Use AUREN
 
