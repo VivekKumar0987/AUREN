@@ -29,5 +29,5 @@
   </g>
   <line x1="64" y1="292" x2="1164" y2="292" stroke="#1F211D" stroke-width="2"/>
   <text x="64" y="336" fill="#34443A" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Nothing repeats. Failure counts. The record remains.</text>
-  <text x="64" y="372" fill="#666257" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">The internal engine handles history, replacement limits, controlled randomness, archive state, and backup.</text>
+  <text x="64" y="372" fill="#666257" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">The internal engine handles permanent history, controlled randomness, archive detail, and backup.</text>
 </svg>

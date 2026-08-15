@@ -1,6 +1,6 @@
 <svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">AUREN screen mockups</title>
-  <desc id="desc">Three AUREN app screen mockups showing the Black Box, an Experience, and the Archive.</desc>
+  <desc id="desc">Three AUREN app screen mockups showing the Black Box, an Experience, and an archived field note with the task.</desc>
   <rect width="1280" height="720" fill="#F3EDDF"/>
   <text x="72" y="76" fill="#1F211D" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">EDITORIAL FIELD NOTES UI</text>
   <text x="72" y="112" fill="#666257" font-family="Georgia, 'Times New Roman', serif" font-size="22">Warm paper, charcoal ink, restrained borders, one thing at a time.</text>
@@ -34,13 +34,15 @@
     <rect width="310" height="456" fill="#F8F1E3" stroke="#1F211D" stroke-width="3"/>
     <text x="28" y="46" fill="#1F211D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900">AUREN</text>
     <text x="178" y="46" fill="#666257" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">15 AUGUST 2026</text>
-    <text x="88" y="98" fill="#A47A32" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900">AUREN ARCHIVE</text>
+    <text x="68" y="98" fill="#A47A32" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900">ARCHIVED FIELD NOTE</text>
     <text x="42" y="150" fill="#A47A32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="900">15 AUGUST 2026</text>
     <text x="42" y="184" fill="#1F211D" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">THE LAST STOP</text>
     <text x="42" y="216" fill="#1F211D" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">Without AUREN: NO</text>
     <text x="42" y="238" fill="#1F211D" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">Worth it: YES</text>
     <line x1="42" y1="270" x2="268" y2="270" stroke="#1F211D" stroke-width="2"/>
-    <text x="42" y="326" fill="#34443A" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700">Failure counts.</text>
-    <text x="42" y="356" fill="#34443A" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700">You were there.</text>
+    <text x="42" y="304" fill="#A47A32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="900">TASK</text>
+    <text x="42" y="336" fill="#34443A" font-family="Georgia, 'Times New Roman', serif" font-size="17">The original task stays</text>
+    <text x="42" y="362" fill="#34443A" font-family="Georgia, 'Times New Roman', serif" font-size="17">with the field note.</text>
+    <text x="42" y="388" fill="#34443A" font-family="Georgia, 'Times New Roman', serif" font-size="17">You can return to it.</text>
   </g>
 </svg>
