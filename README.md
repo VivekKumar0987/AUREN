@@ -204,30 +204,43 @@ Current Windows package:
 AUREN-Windows-Portable.zip
 ```
 
+Current Android package:
+
+```text
+AUREN-Android.apk
+```
+
 Direct files:
 
+- Android APK: [`AUREN-Android.apk`](AUREN-Android.apk)
 - Windows portable ZIP: [`AUREN-Windows-Portable.zip`](AUREN-Windows-Portable.zip)
 - SHA256 checksums: [`SHA256SUMS.txt`](SHA256SUMS.txt)
 
-How to download it from GitHub:
+How to download from GitHub:
 
 1. Open this repository on GitHub.
-2. Click `AUREN-Windows-Portable.zip`.
+2. Click the file you need: `AUREN-Android.apk` or
+   `AUREN-Windows-Portable.zip`.
 3. Click **Download raw file**.
-4. Extract the ZIP.
-5. Open `AUREN.exe` from the extracted folder.
+4. On Android, open the APK on your phone.
+5. On Windows, extract the ZIP and open `AUREN.exe` from the extracted folder.
 
 Important: do not download only `AUREN.exe` for normal Windows use. Flutter
 Windows apps need the executable, DLL files, and the `data` folder together.
 The root `AUREN.exe` copy is included so the app executable is easy to find,
 but the portable ZIP is the correct user download.
 
+Android safety note: Android may warn that the APK is from an unknown source
+because it is downloaded from GitHub instead of the Play Store. Install it only
+if you downloaded it from the official repository and, when possible, verify it
+against `SHA256SUMS.txt`.
+
 When a GitHub Release is available, use the latest release asset instead of
 downloading files one by one from the repository.
 
 For Android:
 
-1. Download `AUREN.apk` from the latest GitHub Release.
+1. Download `AUREN-Android.apk`.
 2. Open the APK on your phone.
 3. If Android asks, allow installation from that source.
 4. Open AUREN.

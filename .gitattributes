@@ -2,6 +2,7 @@
 * text=auto
 
 *.exe binary
+*.apk binary
 *.zip binary
 *.png binary
 *.jpg binary

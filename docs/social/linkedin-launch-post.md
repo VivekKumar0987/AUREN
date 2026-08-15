@@ -82,6 +82,9 @@ Built with Flutter, Dart, SQLite, and an offline-first architecture.
 Download / GitHub:
 https://github.com/VivekKumar0987/AUREN
 
+For Android:
+Download AUREN-Android.apk and install it from the official GitHub repository.
+
 For Windows:
 Download AUREN-Windows-Portable.zip, extract it, and open AUREN.exe.
 
