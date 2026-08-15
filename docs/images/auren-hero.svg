@@ -1,0 +1,19 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AUREN hero banner</title>
+  <desc id="desc">A premium editorial field-note banner with a black box and the AUREN product promise.</desc>
+  <rect width="1280" height="640" fill="#F3EDDF"/>
+  <rect x="44" y="44" width="1192" height="552" fill="#F8F1E3" stroke="#1F211D" stroke-width="4"/>
+  <rect x="58" y="58" width="1192" height="552" fill="none" stroke="#A47A32" stroke-width="1.5" opacity="0.45"/>
+  <text x="92" y="108" fill="#1F211D" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">AUREN</text>
+  <text x="1038" y="108" fill="#666257" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">FIELD EDITION 001</text>
+  <line x1="92" y1="138" x2="1188" y2="138" stroke="#1F211D" stroke-width="2"/>
+  <rect x="94" y="226" width="134" height="134" fill="#1F211D"/>
+  <rect x="108" y="240" width="134" height="134" fill="none" stroke="#A47A32" stroke-width="2" opacity="0.55"/>
+  <text x="292" y="248" fill="#1F211D" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700">One day.</text>
+  <text x="292" y="330" fill="#1F211D" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700">One Experience.</text>
+  <text x="296" y="390" fill="#34443A" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">No feeds. No streaks. No endless scrolling.</text>
+  <text x="296" y="438" fill="#1F211D" font-family="Georgia, 'Times New Roman', serif" font-size="28">AUREN gives you one real-world Experience you probably</text>
+  <text x="296" y="478" fill="#1F211D" font-family="Georgia, 'Times New Roman', serif" font-size="28">would not have chosen yourself. Open it, go live it,</text>
+  <text x="296" y="518" fill="#1F211D" font-family="Georgia, 'Times New Roman', serif" font-size="28">and when it is gone, it is gone.</text>
+  <text x="92" y="548" fill="#703C35" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">WE DO NOT WANT MORE OF YOUR SCREEN TIME. WE WANT TO GIVE SOME OF IT BACK.</text>
+</svg>

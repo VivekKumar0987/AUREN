@@ -1,0 +1,33 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AUREN product flow</title>
+  <desc id="desc">A diagram showing the AUREN flow from open to archive.</desc>
+  <rect width="1280" height="420" fill="#F3EDDF"/>
+  <text x="64" y="72" fill="#1F211D" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900">AUREN CORE LOOP</text>
+  <text x="64" y="108" fill="#666257" font-family="Georgia, 'Times New Roman', serif" font-size="22">A few minutes in the app. A real Experience outside it.</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">
+    <rect x="64" y="168" width="132" height="72" fill="#F8F1E3" stroke="#1F211D" stroke-width="2"/>
+    <text x="101" y="212" fill="#1F211D">OPEN</text>
+    <path d="M210 204H265" stroke="#A47A32" stroke-width="4"/>
+    <path d="M265 204L252 194V214L265 204Z" fill="#A47A32"/>
+    <rect x="280" y="168" width="160" height="72" fill="#F8F1E3" stroke="#1F211D" stroke-width="2"/>
+    <text x="314" y="199" fill="#1F211D">UNKNOWN</text>
+    <text x="318" y="222" fill="#1F211D">EXPERIENCE</text>
+    <path d="M454 204H509" stroke="#A47A32" stroke-width="4"/>
+    <path d="M509 204L496 194V214L509 204Z" fill="#A47A32"/>
+    <rect x="524" y="168" width="148" height="72" fill="#F8F1E3" stroke="#1F211D" stroke-width="2"/>
+    <text x="565" y="212" fill="#1F211D">REVEAL</text>
+    <path d="M686 204H741" stroke="#A47A32" stroke-width="4"/>
+    <path d="M741 204L728 194V214L741 204Z" fill="#A47A32"/>
+    <rect x="756" y="168" width="166" height="72" fill="#1F211D"/>
+    <text x="797" y="199" fill="#F3EDDF">GO DO IT</text>
+    <text x="781" y="222" fill="#F3EDDF">IN REAL LIFE</text>
+    <path d="M936 204H991" stroke="#A47A32" stroke-width="4"/>
+    <path d="M991 204L978 194V214L991 204Z" fill="#A47A32"/>
+    <rect x="1006" y="168" width="158" height="72" fill="#F8F1E3" stroke="#1F211D" stroke-width="2"/>
+    <text x="1038" y="199" fill="#1F211D">REFLECT</text>
+    <text x="1040" y="222" fill="#1F211D">ARCHIVE</text>
+  </g>
+  <line x1="64" y1="292" x2="1164" y2="292" stroke="#1F211D" stroke-width="2"/>
+  <text x="64" y="336" fill="#34443A" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Nothing repeats. Failure counts. The record remains.</text>
+  <text x="64" y="372" fill="#666257" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">The internal engine handles history, replacement limits, controlled randomness, archive state, and backup.</text>
+</svg>

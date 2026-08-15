@@ -1,0 +1,2247 @@
+{
+  "app": "AUREN",
+  "count": 160,
+  "note": "These are intentionally limited to strong, non-repetitive editorial candidates. They are not claimed as field-proven until humans test them.",
+  "experiences": [
+    {
+      "experience_id": "AUREN-0001",
+      "title": "The Unnoticed Hour",
+      "instruction": "Spend one hour in a familiar public place without headphones, camera, or reading. Every ten minutes, write one thing you had never noticed there before. Do not move to a more interesting spot.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0002",
+      "title": "One Square Metre",
+      "instruction": "Choose a safe patch of ground roughly one square metre. Stay with it for twenty minutes. Find ten distinct things happening, changing, growing, wearing, moving, or interacting inside that tiny area.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0003",
+      "title": "The Wear Story",
+      "instruction": "Choose an ordinary object that has been used for years. Study only its scratches, polished edges, stains, dents, repairs, and fading. Reconstruct how those marks probably accumulated, then separate evidence from guesswork.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0004",
+      "title": "The Sound You Missed",
+      "instruction": "Sit somewhere safe and close your eyes for five minutes. Count every distinct sound source you can identify. Open your eyes and find the three sources you located incorrectly.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0005",
+      "title": "Shadow Geography",
+      "instruction": "Choose one building, tree, or object and study only its shadow for fifteen minutes. Sketch the shape, direction, and interruptions. Use the shadow to infer something about the object you ignored when looking at it directly.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0006",
+      "title": "The Object Without Its Name",
+      "instruction": "Choose an ordinary object and describe it in writing without naming it or stating its purpose. Focus on shape, material, wear, weight, sound, and movement. Give the description to someone and see whether they can identify it.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0007",
+      "title": "The Fifteen-Minute Window",
+      "instruction": "Pick one window with a changing view. Stay there for fifteen minutes without doing anything else. Record only changes: people entering or leaving, light, weather, traffic, animals, reflections, sounds, or activity.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0008",
+      "title": "The Tiny Mechanism",
+      "instruction": "Find a simple non-electrical object with a visible moving part: stapler, latch, scissors, pump dispenser, hinge, clip. Move it slowly and explain exactly how motion in one part produces motion in another.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0009",
+      "title": "Five Materials",
+      "instruction": "Choose one manufactured object and identify at least five distinct materials in or on it. For each, decide why that material may have been chosen. Research only after committing to your guesses.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0010",
+      "title": "The Back of Things",
+      "instruction": "Spend twenty minutes deliberately looking at the backs, undersides, hinges, fasteners, labels, seams, service panels, or unfinished faces of ordinary objects around you. Pick one that changes how you understand the object.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0011",
+      "title": "The Last Stop",
+      "instruction": "Take a familiar public-transport route past your usual stop and get off somewhere you do not know. For the first twenty minutes, do not use digital navigation. Walk, observe, and find one thing worth remembering before returning normally.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0012",
+      "title": "Ask Three Humans",
+      "instruction": "Reach a nearby unfamiliar destination without turn-by-turn navigation. You may use a written address, but if you need directions you must ask people. Ask no more than three. Notice which landmarks humans use that maps do not.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0013",
+      "title": "The Paper Route",
+      "instruction": "Draw from memory the route between two places you know well. Then walk or travel it and mark everything your mental map omitted: slopes, crossings, dead ends, landmarks, shortcuts, sounds, or changes in land use.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0014",
+      "title": "Follow the Water",
+      "instruction": "During or after rain, safely trace where water on one street or property flows. Follow gutters, slopes, drains, puddles, stains, and channels without entering restricted areas. Draw the route from source to disappearance.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0015",
+      "title": "Find North",
+      "instruction": "Go outside and decide which way north is without a phone or compass. Use sun, shadows, street orientation, landmarks, or memory. Commit to your answer, then verify it and record which clue helped most.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0016",
+      "title": "The Edge of the Neighborhood",
+      "instruction": "Walk until you can identify where one neighborhood seems to become another. Use architecture, traffic, language, shops, road width, density, sound, vegetation, or pace. Stand at the boundary and write what changes first.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0017",
+      "title": "The Route Nobody Recommends",
+      "instruction": "Choose a familiar destination and take a safe, legitimate route you have never used. Do not optimize for speed. Your goal is to learn one new connection between streets, paths, or transit lines.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0018",
+      "title": "The Sign-Only Journey",
+      "instruction": "Move through a station, market, campus, mall, or civic area using only physical signs and posted information. Do not open Maps. Notice where the environment communicates clearly and where it assumes prior knowledge.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0019",
+      "title": "The Return by Another World",
+      "instruction": "Go somewhere familiar by your normal route. Return by a meaningfully different route. Identify three things that make the second journey feel like a different place even though the endpoints are identical.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0020",
+      "title": "The Place You Only Pass",
+      "instruction": "Choose a safe place you frequently pass but never stop at. Spend thirty minutes there without turning it into a shopping trip. Learn what the place is actually for, who uses it, and what happens when you stop moving through it.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0021",
+      "title": "Don't Replace It",
+      "instruction": "Choose one broken non-hazardous object you would normally discard. Before searching for a fix, spend fifteen minutes diagnosing what failed and why. Attempt one safe repair. Success is optional; understanding the failure is not.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0022",
+      "title": "One Joint",
+      "instruction": "Using scrap material you already have, make two separate pieces and join them so the connection survives gentle handling. Try two joining methods. Keep the failed one long enough to understand why it failed.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0023",
+      "title": "Build a Container",
+      "instruction": "Using only discarded packaging and ordinary household tools, make a container that can hold ten small objects and be carried across a room. No tutorial. Function first; appearance later.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0024",
+      "title": "Sew It Back Into Use",
+      "instruction": "Find a wearable or fabric item with a minor repairable problem. Learn one appropriate hand-stitch and repair it well enough to use once more. Do not buy a replacement for the Experience.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0025",
+      "title": "The Paper Structure",
+      "instruction": "Build the tallest free-standing structure you can from ten sheets of paper without glue or tape. It must stand for one minute. You get two attempts; change the structure, not the amount of material.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0026",
+      "title": "The Ugly Prototype",
+      "instruction": "Make a useful object from scrap material in thirty minutes. It may be ugly. The only rule is that it must perform one clearly defined function. Test it three times before improving appearance.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0027",
+      "title": "Restore One Tool",
+      "instruction": "Choose a safe hand tool you own that is dirty, rusty, stiff, or neglected. Learn its correct maintenance, clean or restore it appropriately, and understand what maintenance prevents future damage.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0028",
+      "title": "The Cardboard Hinge",
+      "instruction": "Make a working hinge from cardboard or thick paper without using a ready-made hinge. It should open and close ten times. Explore folds, slots, layers, or flexible joints rather than searching for a template.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0029",
+      "title": "Repair Report",
+      "instruction": "Treat one small household repair like an engineering case. Record the symptom, suspected cause, action taken, and result. Attempt only safe work you understand. A failed repair with a good diagnosis still counts.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0030",
+      "title": "Make It Stronger",
+      "instruction": "Build a simple beam or bridge from paper, cardboard, or sticks. Test how much small household weight it holds. Change only the structure, not the material quantity, and test again.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0031",
+      "title": "Borrow a Skill",
+      "instruction": "Find someone at least twenty years older or younger than you. Each of you teaches the other one practical thing you genuinely know how to do. No internet during the lessons.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0032",
+      "title": "Before the Internet",
+      "instruction": "Ask someone old enough to remember daily life before smartphones to teach you one ordinary task they regularly did then. Do the task once using their method before comparing it with the modern equivalent.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0033",
+      "title": "What Looks Easy",
+      "instruction": "Ask someone who is skilled at something practical: 'What looks easy when you do it but took years to learn?' Ask them to show you one tiny detail beginners usually miss.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0034",
+      "title": "The Memory Mismatch",
+      "instruction": "Choose one event you and another person both remember. Tell your versions separately before discussing them. Compare what each person retained, omitted, or changed without trying to declare a winner.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0035",
+      "title": "Ask for the Mistake",
+      "instruction": "Ask someone experienced at a craft, job, hobby, or responsibility what they fundamentally misunderstood as a beginner. Follow with only one question: what experience changed their mind?",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0036",
+      "title": "The Ordinary Day",
+      "instruction": "Ask someone whose life is different from yours to describe an ordinary weekday in detail from waking to sleeping. Do not ask for dramatic stories. Pay attention to invisible routines.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0037",
+      "title": "Teach Without Jargon",
+      "instruction": "Teach a willing person one thing you know well in ten minutes without specialist vocabulary. If you need a technical word, explain it with an everyday example before using it.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0038",
+      "title": "The Object Story",
+      "instruction": "Ask someone you know to choose an ordinary object they have kept for years and tell you why it remains. Do not ask for their most valuable possession. Ordinary objects usually carry better stories.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0039",
+      "title": "One Question You Never Asked",
+      "instruction": "Think of one sincere, appropriate question you have somehow never asked someone close to you. Ask it and let the answer take the conversation wherever it goes. Do not prepare a second question.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0040",
+      "title": "Voice Instead of Text",
+      "instruction": "Contact someone you normally only message and have a real voice conversation instead. Keep it short if needed. Notice what voice reveals that text usually hides: timing, hesitation, humor, emotion, silence.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0041",
+      "title": "Where Your Water Comes From",
+      "instruction": "Trace the path of your household drinking water as far backward as reliable public information allows: tap, storage, treatment, source. Draw the chain in no more than ten boxes.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0042",
+      "title": "Where Your Rubbish Goes",
+      "instruction": "Find out what happens to one category of your household waste after collection. Follow the chain to sorting, recycling, landfill, composting, or another endpoint. Verify rather than assume.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0043",
+      "title": "The Package Journey",
+      "instruction": "Take one recently delivered package and reconstruct its likely journey from seller to your door using labels, tracking events, hubs, and transport stages. Identify the step you had never thought about.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0044",
+      "title": "The Bus Behind the Bus",
+      "instruction": "Pick one local bus or transit route and learn what has to happen for a single service to run: vehicle, driver, schedule, depot, maintenance, fuel or charging, route control, stops, and passenger information.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0045",
+      "title": "Who Keeps the Lights On",
+      "instruction": "Trace one ordinary public service you use at night—street lighting, building lighting, station lighting—back to who maintains it, how faults are reported, and what happens when it fails.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0046",
+      "title": "The Supermarket Before Opening",
+      "instruction": "Choose one ordinary supermarket product and trace at least five steps required for it to be on the shelf before you arrived: production, packing, transport, storage, receiving, stocking, pricing, refrigeration, or inspection.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0047",
+      "title": "The Elevator You Never See",
+      "instruction": "Study the public information, labels, inspection notices, capacity markings, controls, and maintenance clues around an elevator you legitimately use. Learn what safety systems exist without opening or accessing machinery.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0048",
+      "title": "The Fire Exit Test",
+      "instruction": "In a building you legitimately occupy, find the nearest emergency exit and trace the route to the outside using posted signs. Do not trigger alarms or enter restricted areas. Notice where the route is clear and where it is confusing.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0049",
+      "title": "The Library Machine",
+      "instruction": "Visit a library and learn how one physical book moves through acquisition, cataloging, shelving, borrowing, return, and reshelving. Ask a librarian one question that the public rarely thinks to ask.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0050",
+      "title": "The Street After Rain",
+      "instruction": "After rain, observe one block and map how water, vehicles, pedestrians, drains, slopes, and surfaces interact. Identify one design choice that helps and one that creates friction.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0051",
+      "title": "Cook From a Memory",
+      "instruction": "Ask someone for a dish they know well, but do not request exact measurements. Let them describe it as they actually cook it. Make one small portion using their sensory cues: smell, texture, color, sound, and timing.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0052",
+      "title": "One Ingredient, Three Forms",
+      "instruction": "Choose one common ingredient and prepare or taste it in three simple forms that change texture or temperature while keeping seasoning minimal. Compare how the same ingredient becomes three different experiences.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0053",
+      "title": "Cut Changes Taste",
+      "instruction": "Prepare the same safe ingredient in two different sizes or shapes using the same cooking method. Compare cooking time, texture, browning, aroma, and how seasoning behaves.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0054",
+      "title": "The Spice Pair",
+      "instruction": "Prepare two tiny portions of the same simple food. Change only one spice or seasoning variable. Taste side by side and describe the difference without saying only better or worse.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0055",
+      "title": "Trace One Ingredient",
+      "instruction": "Pick one ingredient you use often and find out where the version in your kitchen was grown or produced, how it was processed, and how it reached your region. Then cook with it once while keeping that chain in mind.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0056",
+      "title": "The No-Recipe First Attempt",
+      "instruction": "Choose a simple dish or preparation you have never made but understand conceptually. Make a small safe version without a recipe first. Only afterward compare your approach with an established method.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0057",
+      "title": "Smell Before Taste",
+      "instruction": "Choose a familiar food or drink. Spend two minutes examining aroma at different temperatures or distances before tasting. Predict what you expect, then compare smell with actual taste.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0058",
+      "title": "Texture Vocabulary",
+      "instruction": "Eat a familiar food slowly and describe its texture using at least six precise words beyond soft, hard, smooth, and crunchy. Notice how texture changes from first bite to aftertaste.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0059",
+      "title": "The Tool Behind the Dish",
+      "instruction": "Choose one kitchen tool you use without thinking. Learn why its shape, material, and geometry are suited to its job. Use it slowly once while noticing the design decisions.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0060",
+      "title": "Make the Cheapest Version",
+      "instruction": "Choose a simple meal you regularly buy or order. Make a basic home version using ordinary ingredients and calculate only the direct ingredient cost. Compare effort, taste, waste, and control—not just money.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0061",
+      "title": "The Same Tree Twice",
+      "instruction": "Choose one tree or plant you pass often. Observe it closely today and return at a different time of day or weather condition. Record five changes caused by light, wind, moisture, people, or animal activity.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0062",
+      "title": "Follow a Shadow",
+      "instruction": "Mark or sketch the shadow of one fixed outdoor object. Return roughly two hours later and compare position and length. Use the change to explain the sun's apparent movement in your own words.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0063",
+      "title": "Weather's Handwriting",
+      "instruction": "After a weather event, find five physical traces it left behind: dust, puddles, bent plants, erosion, stains, debris, temperature, tracks, drying patterns, or changed sound.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0064",
+      "title": "The Tiny Habitat",
+      "instruction": "Choose a safe outdoor area no larger than a dining table. Identify as many living and non-living elements as you can without collecting or disturbing them. Focus on relationships rather than species names.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0065",
+      "title": "Night Sky Without an App",
+      "instruction": "Spend twenty minutes under a visible night sky without an astronomy app. Choose three bright objects or patterns and sketch their positions. Only afterward identify what you were looking at.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0066",
+      "title": "The Wind Map",
+      "instruction": "On a breezy day, walk through a safe small area and use flags, leaves, grass, smoke-free visual cues, and your skin to map where wind is blocked, accelerated, or redirected by buildings and trees.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0067",
+      "title": "The Soil Test",
+      "instruction": "Compare small amounts of soil from two legitimate locations you can access. Observe color, grain size, moisture, smell, compaction, and what grows nearby. Do not treat appearance as a scientific diagnosis; simply learn to see differences.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0068",
+      "title": "The Rain Route",
+      "instruction": "During light rain or soon after, safely watch one roof, gutter, path, or courtyard. Trace how water moves from first contact to drain, soil, or pooling. Sketch the flow.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0069",
+      "title": "The Quietest Living Thing",
+      "instruction": "Spend fifteen minutes looking for the least obvious living thing you can observe without disturbing it: moss, lichen, tiny plant, insect activity, fungus, seedling. Stay with it instead of searching for something impressive.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0070",
+      "title": "No Species Name",
+      "instruction": "Observe one plant or animal from a respectful distance and describe it in detail without trying to identify it. Shape, movement, texture, pattern, habitat, behavior first. Name comes later.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0071",
+      "title": "Predict Before You Google",
+      "instruction": "Choose a simple phenomenon you can safely test at home: cooling, floating, dissolving, shadow length, rolling, bouncing, drying. Write your prediction and explanation before running the test or looking anything up.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0072",
+      "title": "The Paper Bridge",
+      "instruction": "Using one sheet of paper and two supports, build a bridge that holds the largest small household load you can manage safely. Change only the fold or geometry between attempts.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0073",
+      "title": "The Cooling Curve",
+      "instruction": "Pour a hot drink at a safe temperature and record its temperature at regular intervals with an appropriate thermometer if you have one. Predict the shape of the cooling pattern before plotting the observations.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0074",
+      "title": "Which Falls First",
+      "instruction": "Choose two safe, lightweight objects and predict how they will fall from the same low height. Test several times. Change one variable—shape, crumpling, orientation—and explain the change.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0075",
+      "title": "The Pendulum",
+      "instruction": "Make a simple pendulum from string and a small safe weight. Predict what changes its swing period: weight, length, or release angle. Test one variable at a time rather than trusting intuition.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0076",
+      "title": "The Dissolving Race",
+      "instruction": "Use safe kitchen materials to compare how one variable affects dissolving: temperature, stirring, grain size. Make a prediction first, then run repeated small trials.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0077",
+      "title": "The Shadow Clock",
+      "instruction": "Choose a fixed vertical object outdoors and mark its shadow position at three times during one day. Use the pattern to explain what changed and what did not.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0078",
+      "title": "The Friction Test",
+      "instruction": "Slide the same safe object across three surfaces. Predict which needs the most effort. Use a simple consistent method to compare rather than relying only on impression.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0079",
+      "title": "The Bounce Problem",
+      "instruction": "Drop the same ball from the same low height onto several safe surfaces. Predict which returns the most height. Run three trials per surface and compare variation.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0080",
+      "title": "The Floating Question",
+      "instruction": "Choose three safe household objects and predict whether they float in a bowl of water. Before testing, explain why. Afterward, revise your explanation using shape, trapped air, material, and density rather than just weight.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0081",
+      "title": "The Phone Number Test",
+      "instruction": "Memorize the phone numbers of three people who matter to you, then verify them from memory the next day. Do not store them somewhere new as a substitute for remembering.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0082",
+      "title": "One Journey, No GPS",
+      "instruction": "For a route you can safely handle, plan the journey before leaving and keep digital navigation closed unless genuinely needed for safety. Use written directions, signs, landmarks, and memory.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0083",
+      "title": "The Library Answer",
+      "instruction": "Choose one factual question that can reasonably be answered from books or reference material. Go to a library and find an answer without using an internet search. Ask staff for help if needed.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0084",
+      "title": "Write It by Hand",
+      "instruction": "Write a real one-page letter to someone by hand. It can be delivered physically or photographed and sent, but compose it entirely on paper without drafting digitally first.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0085",
+      "title": "The Printed Instructions",
+      "instruction": "Choose one safe task you would usually learn from a video. Find written instructions instead and complete it using text and diagrams only. Notice what you miss without demonstration.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0086",
+      "title": "The Paper Schedule",
+      "instruction": "Use a printed or posted timetable, event schedule, or transit board to plan one real outing without relying on an app's automatic recommendation. Verify timing before committing.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0087",
+      "title": "The Pocket List",
+      "instruction": "For one day, keep your short reminders on a small paper list instead of opening a notes app. At the end, compare what changed about how often you checked the list and what you remembered without it.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0088",
+      "title": "The Analog Hour",
+      "instruction": "Spend one hour doing something ordinary using only tools that would have been common before smartphones: paper, pen, physical book, clock, radio, printed instructions, face-to-face conversation. Do not turn it into a costume exercise.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0089",
+      "title": "Send Physical Mail",
+      "instruction": "Send one real piece of physical mail: letter, postcard, or small appropriate card. Learn the addressing and postage process instead of outsourcing the whole action to an app.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0090",
+      "title": "Find It on a Map",
+      "instruction": "Use a physical map or printed map to locate your home area, a familiar landmark, and one unfamiliar nearby place. Then compare what the paper view makes obvious that your usual map app hides.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0091",
+      "title": "The Five-Line Portrait",
+      "instruction": "Choose an ordinary object and draw it using only five continuous lines. You may look as long as you want before touching the page. Stop when the fifth line ends.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0092",
+      "title": "One-Minute Museum",
+      "instruction": "Choose five ordinary objects in your home and arrange them as if they belong in a tiny museum exhibition. Give the exhibition a title and write a one-sentence caption for each object.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0093",
+      "title": "The Bad First Version",
+      "instruction": "Create something small—a sketch, paragraph, melody, arrangement, object—deliberately allowing the first version to be bad. Then improve only one thing. Stop after the second version.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0094",
+      "title": "Photograph One Color",
+      "instruction": "Take exactly twelve photographs during one walk, each centered on the same color appearing in different contexts. No extra shots. Review them only after you return.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0095",
+      "title": "Tell It Backwards",
+      "instruction": "Write or tell a true, harmless two-minute story from the ending backward to the beginning. Keep every event accurate; only reverse the order of telling.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0096",
+      "title": "The Soundtrack of a Place",
+      "instruction": "Spend ten minutes somewhere safe and choose five sounds that define the place. Recreate their rhythm with your voice, hands, or simple objects when you get home. No recording required.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0097",
+      "title": "Design a Symbol",
+      "instruction": "Choose one ordinary activity you do often and invent a simple symbol for it that would still make sense at very small size. Remove details until the symbol almost stops working.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0098",
+      "title": "The Object From Memory",
+      "instruction": "Look at an ordinary object for exactly sixty seconds, hide it, and draw or model it from memory. Bring it back and circle the three largest errors in proportion or structure.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0099",
+      "title": "Three Angles",
+      "instruction": "Choose one familiar object or place and represent it three times from three unusual viewpoints: very low, very close, and from behind. Use sketch, photo, or written description, but keep the medium the same across all three.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0100",
+      "title": "The Caption That Changes It",
+      "instruction": "Take a photograph of an ordinary scene. Write three different one-sentence captions that make the same image feel comic, serious, and mysterious without changing any facts.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0101",
+      "title": "Explain It to Ten",
+      "instruction": "Choose something you understand and explain it as if to an intelligent ten-year-old. No jargon unless you define it. Ask a real listener to point out the first sentence they do not understand.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0102",
+      "title": "The Word With No Twin",
+      "instruction": "Find one word in a language you know that does not map neatly to a single English word. Learn how native speakers actually use it in context rather than memorizing a dictionary gloss.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0103",
+      "title": "Memorize a Small Poem",
+      "instruction": "Choose a short poem or passage you genuinely like and memorize it well enough to recite without looking. Focus on rhythm, sound, and structure rather than brute repetition.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0104",
+      "title": "Describe a Smell",
+      "instruction": "Choose a safe familiar smell and write a description without naming its source. Avoid vague words like nice, bad, fresh, or strong. Use comparisons, temperature, texture, memory, or movement.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0105",
+      "title": "The Story in Sixty Words",
+      "instruction": "Tell a complete true story from your life in exactly sixty words. It must have a beginning, change, and ending. Cutting is part of the Experience.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0106",
+      "title": "Write the Instructions",
+      "instruction": "Choose a simple task you can do automatically and write instructions for a total beginner. Then follow your own instructions literally and mark every hidden assumption.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0107",
+      "title": "The Forgotten Phrase",
+      "instruction": "Ask someone older or from another region about a phrase, saying, or expression they use that younger people rarely say. Learn what situation it belongs in and use it correctly once in conversation.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0108",
+      "title": "The Memory Palace Test",
+      "instruction": "Memorize ten unrelated household objects using a simple location-based memory method. Test yourself an hour later without reviewing the list.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0109",
+      "title": "The Same Event, Two Styles",
+      "instruction": "Describe one real harmless event twice: once as a factual report and once as a personal story. Keep facts the same. Notice how structure changes meaning without changing truth.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0110",
+      "title": "Tell Me Without the Job Title",
+      "instruction": "Introduce yourself to someone or write a short self-introduction without stating your job, degree, role, or status labels. Use what you actually do, care about, make, learn, or spend time on.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0111",
+      "title": "Read a Public Notice",
+      "instruction": "Find one legitimate public notice, civic board, municipal sign, or building notice you normally ignore. Read it completely and work out who issued it, who it affects, what action it expects, and how current it is.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0112",
+      "title": "Attend Something You Normally Wouldn't",
+      "instruction": "Attend one legitimate public talk, demonstration, exhibition, meeting, performance, or community event on a topic outside your normal interests. Stay until the end before deciding what you think.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0113",
+      "title": "The Queue System",
+      "instruction": "Observe how one public queue actually works: tickets, lines, informal order, staff calls, priority rules, signage. Identify where the written system and human system differ.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0114",
+      "title": "Find the Accessibility Route",
+      "instruction": "In a public place you legitimately use, trace how someone avoiding stairs would enter, move through, and exit. Do not block access or simulate disability. Notice where the route is obvious and where it becomes confusing.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0115",
+      "title": "The Form Nobody Reads",
+      "instruction": "Take one ordinary form, bill, ticket, receipt, application, or service document you legitimately possess and read every field or line. Identify three pieces of information you have routinely ignored.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0116",
+      "title": "The Lost-and-Found System",
+      "instruction": "Find out how lost property is handled in one station, campus, mall, office, or public facility you use. Learn the actual process rather than assuming it simply goes to a desk.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0117",
+      "title": "The Public Clock",
+      "instruction": "Find a public clock, timetable, display, or bell that regulates shared time in a place. Spend ten minutes observing how people use or ignore it and what happens when personal time meets public time.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0118",
+      "title": "The Building's Rules",
+      "instruction": "In a building you legitimately occupy, find the posted rules, evacuation information, capacity notice, accessibility information, or operating hours you normally pass. Learn one rule whose purpose was not obvious.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0119",
+      "title": "The Local Number",
+      "instruction": "Learn the correct non-emergency contact method for one local public service you might realistically need: municipal issue reporting, utilities, transit help, or building management. Store it only if it is genuinely useful.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0120",
+      "title": "The Bench Test",
+      "instruction": "Sit on one public bench or seating area for twenty minutes without consuming anything or waiting for someone. Observe who uses the space, how long they stay, and what the design encourages people to do.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0121",
+      "title": "The Non-Dominant Ten",
+      "instruction": "Choose one safe everyday task such as pouring water, folding cloth, drawing a line, or using a spoon. Do it ten times with your non-dominant hand slowly enough to notice what your dominant side does automatically.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0122",
+      "title": "Heel-to-Toe",
+      "instruction": "In a safe clear space, walk heel-to-toe along a straight line for ten slow passes. Do not make it a fitness challenge. Focus on balance, gaze, foot placement, and how attention changes movement.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0123",
+      "title": "Catch the Pattern",
+      "instruction": "With a soft ball or rolled socks, practice a simple toss-and-catch pattern for fifteen minutes. Change only one variable at a time: height, hand, distance, or rhythm. Stop before fatigue makes it sloppy.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0124",
+      "title": "Move It Quietly",
+      "instruction": "Choose a safe everyday movement—closing a door, placing a cup, climbing stairs, moving a chair—and perform it as quietly as possible. Notice how reducing noise changes force and control.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0125",
+      "title": "The Slow Stair",
+      "instruction": "Use a safe staircase and climb one flight at half your normal speed while paying attention to balance, foot placement, rail use, and breathing. Descend normally and compare.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0126",
+      "title": "Mirror the Motion",
+      "instruction": "Choose a simple safe movement you usually perform on one side. Recreate it on the opposite side. Do not chase equal performance; identify which part becomes cognitively difficult.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0127",
+      "title": "Carry Without Hands",
+      "instruction": "Move a light harmless object across a room using a safe method that does not involve gripping it with your hands. Do not use your mouth or anything risky. The point is coordination and problem-solving, not speed.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0128",
+      "title": "Stack Against Time",
+      "instruction": "Stack ten small safe objects into a stable structure. First optimize for speed, then rebuild optimizing for stability. Compare the strategies rather than the times.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0129",
+      "title": "Pour Exactly",
+      "instruction": "Without measuring first, pour what you think is exactly one cup or another known volume of water into a container. Measure afterward. Repeat three times and see whether estimation improves.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0130",
+      "title": "Teach the Movement",
+      "instruction": "Choose a simple movement you do well enough. Explain it aloud as if teaching a beginner, then perform it by following only your own instructions. Notice what your body knew that your words omitted.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0131",
+      "title": "No Tape",
+      "instruction": "Solve one small household organization or holding problem without tape or glue. Use folds, knots, clips, weight, friction, slots, or shape. The solution must be reversible.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0132",
+      "title": "Make a Funnel",
+      "instruction": "Using clean household materials, make a temporary funnel that can transfer dry rice, beans, or water safely between containers. Test and improve it once.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0133",
+      "title": "Measure Without a Ruler",
+      "instruction": "Estimate the dimensions of five household objects using only your hand span, finger width, a sheet of paper, or another known reference. Measure afterward and record which reference was most reliable.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0134",
+      "title": "Protect the Fragile Thing",
+      "instruction": "Create reusable protective packaging for one fragile household object using only materials you already have. It should survive being carried normally across the room without shifting.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0135",
+      "title": "The One-Material Stand",
+      "instruction": "Build a stand for a phone, book, or small object using primarily one material you already own. It must hold the object for five minutes and come apart without damage.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0136",
+      "title": "Temporary Divider",
+      "instruction": "Create a removable divider inside a drawer, box, or bag using only existing materials. The goal is to make two categories stay separate during normal use.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0137",
+      "title": "The Soft Clamp",
+      "instruction": "Create a temporary way to hold two harmless objects together without damaging either surface. Use cloth, string, elastic, clips, paper, or another reversible method.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0138",
+      "title": "Carry Three Awkward Things",
+      "instruction": "Plan a safe way to carry three light awkward objects from one room to another in one trip without stacking them precariously. Think before touching anything.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0139",
+      "title": "Make It Level",
+      "instruction": "Find a small object or surface that wobbles slightly. Without permanent modification, create a reversible shim or support that makes it stable. Remove it afterward if the object is not yours.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0140",
+      "title": "The Two-Minute Inventory",
+      "instruction": "Before solving a small household problem, spend exactly two minutes listing every material or tool already available nearby. Choose a solution only after the inventory. Notice how often the first idea depends on buying something.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0141",
+      "title": "The Oldest Thing Nearby",
+      "instruction": "Find the oldest public structure, institution, road, or surviving feature you can verify within a reasonable local area. Visit or view it legitimately and learn one fact that changes how you see the surrounding place.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0142",
+      "title": "Street Name Detective",
+      "instruction": "Choose one local street, neighborhood, or landmark name and trace where the name came from. Verify the explanation; local names often accumulate myths.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0143",
+      "title": "Then and Now",
+      "instruction": "Find an old photograph or map of a place you can safely visit. Stand roughly where the older view was made and compare what disappeared, what survived, and what changed function.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0144",
+      "title": "The Object Biography",
+      "instruction": "Choose an old household object and trace its life as far as evidence allows: manufacturer, approximate date, owner, repairs, moves, changes in use. Label guesses as guesses.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0145",
+      "title": "Ask the Old Shop",
+      "instruction": "Visit a long-running local shop or institution and, if staff are not busy and are willing, ask what has changed most about customers, products, or the area over the years.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0146",
+      "title": "The Disappearing Skill",
+      "instruction": "Find one ordinary skill that was common in a previous generation but is less common now. Ask someone who knows it to demonstrate one small part, then try that part yourself.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0147",
+      "title": "Old Map, New Feet",
+      "instruction": "Use an older map of your area to identify a road, stream, building, field, railway, or boundary that changed. Visit the modern location and look for physical traces of the older geography.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0148",
+      "title": "The Receipt Archaeology",
+      "instruction": "Take an old receipt, ticket, label, or bill you legitimately own. Decode every abbreviation, price, tax, code, address, or date you can. Use it to reconstruct one small piece of everyday history.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0149",
+      "title": "The Family Recipe Without Measurements",
+      "instruction": "Ask for an older family or community recipe exactly as the person remembers making it, including vague instructions like 'until it looks right.' Write down those sensory cues instead of forcing them into exact measurements.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0150",
+      "title": "The Forgotten Route",
+      "instruction": "Find a local road, transit route, footpath, or connection that used to matter more than it does now. Learn what replaced it or why its importance changed.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0151",
+      "title": "The Unfilled Fifteen",
+      "instruction": "Spend fifteen minutes somewhere safe with no phone, book, music, podcast, task, meditation app, or productivity goal. You do not need to empty your mind. Just do not fill the time.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0152",
+      "title": "Wait Five More",
+      "instruction": "Sit somewhere safe for ten quiet minutes. When the ten minutes end, stay five more. Pay attention only to what becomes noticeable during the extra five.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0153",
+      "title": "No Capture",
+      "instruction": "Spend twenty minutes somewhere you find visually interesting. Do not photograph, record, post, sketch, or take notes. Leave with only your memory of the place.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0154",
+      "title": "One Cup, Nothing Else",
+      "instruction": "Prepare a drink and consume it without doing anything else: no phone, reading, conversation, music, or work. Notice temperature, smell, taste, pace, and the urge to add another activity.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0155",
+      "title": "The Empty Commute",
+      "instruction": "On one safe familiar journey where you are not driving, use no headphones and no entertainment. Watch how your attention moves when nothing is chosen for it.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0156",
+      "title": "One Page After Silence",
+      "instruction": "Spend ten minutes without input, then immediately write one page by hand about whatever your attention kept returning to. Do not edit the page afterward.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0157",
+      "title": "Look Outward",
+      "instruction": "Sit for fifteen minutes and deliberately direct attention toward concrete external details—light, sound, surfaces, distance, motion, temperature—rather than analyzing yourself.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0158",
+      "title": "Count the Interruptions",
+      "instruction": "For fifteen minutes, keep your phone out of reach and make a tally each time you feel the impulse to check it, switch tasks, or seek stimulation. Do not judge the tally; just observe it.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0159",
+      "title": "The Slow Meal",
+      "instruction": "Eat one simple meal at roughly half your normal pace without screens. Put utensils down several times. Notice the point where hunger ends and habit continues.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    },
+    {
+      "experience_id": "AUREN-0160",
+      "title": "The Chair Turned Around",
+      "instruction": "Place a chair facing a direction you never normally sit toward in a familiar room. Sit there for fifteen minutes and notice how much a known space changes when your viewpoint changes.",
+      "status": "strong_editorial_candidate_pending_field_test",
+      "repeat_policy": "never_show_again_once_revealed",
+      "consumer_browsable": false,
+      "requires_success": false,
+      "post_experience_questions": [
+        "Would you have done this without AUREN?",
+        "Was it worth your time?"
+      ],
+      "share_prompt": "Would you like to share the experience with someone?"
+    }
+  ]
+}
